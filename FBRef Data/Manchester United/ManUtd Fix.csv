@@ -1,0 +1,39 @@
+Date,Time,Round,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Formation
+11-08-2019,16:30 (21:00),Matchweek 1,Home,W,4,0,Chelsea,2.3,0.9,46,4-2-3-1
+19-08-2019,20:00 (00:30),Matchweek 2,Away,D,1,1,Wolves,1.3,0.3,64,4-2-3-1
+24-08-2019,15:00 (19:30),Matchweek 3,Home,L,1,2,Crystal Palace,2.3,0.7,70,4-2-3-1
+31-08-2019,12:30 (17:00),Matchweek 4,Away,D,1,1,Southampton,1.6,0.8,60,4-2-3-1
+14-09-2019,15:00 (19:30),Matchweek 5,Home,W,1,0,Leicester City,1,0.4,43,4-2-3-1
+22-09-2019,14:00 (18:30),Matchweek 6,Away,L,0,2,West Ham,1,0.5,52,4-2-3-1
+30-09-2019,20:00 (00:30),Matchweek 7,Home,D,1,1,Arsenal,1.1,1.8,55,4-2-3-1
+06-10-2019,16:30 (21:00),Matchweek 8,Away,L,0,1,Newcastle Utd,0.7,0.5,68,4-2-3-1
+20-10-2019,16:30 (21:00),Matchweek 9,Home,D,1,1,Liverpool,0.7,1.1,34,3-4-1-2
+27-10-2019,16:30 (22:00),Matchweek 10,Away,W,3,1,Norwich City,4,0.9,54,4-2-3-1
+02-11-2019,12:30 (18:00),Matchweek 11,Away,L,0,1,Bournemouth,0.7,1.7,57,4-2-3-1
+10-11-2019,14:00 (19:30),Matchweek 12,Home,W,3,1,Brighton,2.3,0.8,44,4-2-3-1
+24-11-2019,16:30 (22:00),Matchweek 13,Away,D,3,3,Sheffield Utd,1.3,1.4,59,03-04-2003
+01-12-2019,16:30 (22:00),Matchweek 14,Home,D,2,2,Aston Villa,1.7,1.4,62,4-2-3-1
+04-12-2019,19:30 (01:00),Matchweek 15,Home,W,2,1,Tottenham,1.2,0.4,47,4-2-3-1
+07-12-2019,17:30 (23:00),Matchweek 16,Away,W,2,1,Manchester City,1.7,1.9,29,4-2-3-1
+15-12-2019,14:00 (19:30),Matchweek 17,Home,D,1,1,Everton,1.7,0.3,65,4-2-3-1
+22-12-2019,14:00 (19:30),Matchweek 18,Away,L,0,2,Watford,1.7,1.5,63,4-2-3-1
+26-12-2019,17:30 (23:00),Matchweek 19,Home,W,4,1,Newcastle Utd,1.5,0.9,73,4-2-3-1
+28-12-2019,19:45 (01:15),Matchweek 20,Away,W,2,0,Burnley,1.9,0.4,62,4-2-3-1
+01-01-2020,20:00 (01:30),Matchweek 21,Away,L,0,2,Arsenal,0.8,1.5,51,4-2-3-1
+11-01-2020,15:00 (20:30),Matchweek 22,Home,W,4,0,Norwich City,2.1,0.3,61,4-2-3-1
+19-01-2020,16:30 (22:00),Matchweek 23,Away,L,0,2,Liverpool,1.4,2.4,47,3-4-1-2
+22-01-2020,20:15 (01:45),Matchweek 24,Home,L,0,2,Burnley,1.9,0.5,70,4-2-3-1
+01-02-2020,17:30 (23:00),Matchweek 25,Home,D,0,0,Wolves,0.7,0.9,64,4-2-3-1
+17-02-2020,20:00 (01:30),Matchweek 26,Away,W,2,0,Chelsea,0.7,1.4,39,3-4-1-2
+23-02-2020,14:00 (19:30),Matchweek 27,Home,W,3,0,Watford,2.4,0.3,57,4-2-3-1
+01-03-2020,14:00 (19:30),Matchweek 28,Away,D,1,1,Everton,1,2.3,55,4-4-2?
+08-03-2020,16:30 (22:00),Matchweek 29,Home,W,2,0,Manchester City,1.4,0.6,28,3-4-1-2
+19-06-2020,20:15 (00:45),Matchweek 30,Away,D,1,1,Tottenham,1.8,0.3,60,4-2-3-1
+24-06-2020,18:00 (22:30),Matchweek 31,Home,W,3,0,Sheffield Utd,2.3,0.2,68,4-2-3-1
+30-06-2020,20:15 (00:45),Matchweek 32,Away,W,3,0,Brighton,0.8,0.5,62,4-2-3-1
+04-07-2020,15:00 (19:30),Matchweek 33,Home,W,5,2,Bournemouth,2.2,1.2,69,4-2-3-1
+09-07-2020,20:15 (00:45),Matchweek 34,Away,W,3,0,Aston Villa,2.7,0.5,66,4-2-3-1
+13-07-2020,20:00 (00:30),Matchweek 35,Home,D,2,2,Southampton,1.2,1.6,46,4-2-3-1
+16-07-2020,20:15 (00:45),Matchweek 36,Away,W,2,0,Crystal Palace,1.8,0.7,58,4-2-3-1
+22-07-2020,18:00 (22:30),Matchweek 37,Home,D,1,1,West Ham,0.7,1.8,56,4-2-3-1
+26-07-2020,16:00 (20:30),Matchweek 38,Away,W,2,0,Leicester City,1.9,1.4,53,4-2-3-1

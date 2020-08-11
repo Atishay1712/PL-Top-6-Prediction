@@ -1,0 +1,39 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,OG,Matches
+Harry Maguire,eng ENG,DF,26,52.8,0.61,0.72,0.57,0.02,0,0.02,0,0,0,0,0,0,0,0,0,Matches
+Victor Lindelöf,se SWE,DF,25,44.1,0.43,0.52,0.39,0.02,0,0.02,0,0.05,0.06,0.05,0,0,0,0,0,Matches
+Aaron Wan-Bissaka,eng ENG,DF,21,43,1.19,1.39,1.02,0.05,0.12,0,0,0.14,0.16,0.12,0,0.02,0,0,0,Matches
+David de Gea,es ESP,GK,28,42,0.05,0.05,0.05,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Fred,br BRA,MF,26,38,2.58,3.31,2.03,0.24,0.11,0.05,0.16,0.13,0.17,0.13,0,0,0,0,0,Matches
+Anthony Martial,fr FRA,FW,23,37.1,2.7,3.1,1.99,0,0.43,0.08,0.19,0.57,0.65,0.35,0,0.13,0.03,0.05,0,Matches
+Marcus Rashford,eng ENG,FW,21,36.2,2.82,3.21,1.93,0.06,0.33,0.11,0.36,0.58,0.66,0.33,0,0.11,0,0.11,0.03,Matches
+Daniel James,wal WAL,FW,21,33.6,2.2,2.58,1.46,0,0.15,0.24,0.36,0.3,0.35,0.24,0,0.03,0.03,0,0,Matches
+Luke Shaw,eng ENG,DF,24,28,1.93,2.32,1.61,0.14,0.07,0.04,0.07,0.07,0.09,0.07,0,0,0,0,0,Matches
+Nemanja Mati?,rs SRB,MF,30,27.9,1.94,2.5,1.83,0,0.07,0,0.04,0.22,0.28,0.22,0,0,0,0,0,Matches
+Scott McTominay,sco SCO,MF,22,27.2,1.65,1.85,1.25,0,0.07,0.11,0.18,0.15,0.16,0.11,0,0,0,0,0.04,Matches
+Mason Greenwood,eng ENG,FW,17,27.2,1.91,2.63,1.65,0,0.15,0,0.11,0.33,0.45,0.26,0,0.04,0,0.04,0,Matches
+Andreas Pereira,br BRA,"FW,MF",23,25.5,2.59,3.46,1.84,0.39,0.2,0.08,0.08,0.31,0.42,0.24,0.08,0,0,0,0,Matches
+Brandon Williams,eng ENG,DF,18,25.2,1.23,1.83,1.07,0.04,0.04,0,0.08,0.16,0.24,0.08,0,0,0,0.08,0,Matches
+Juan Mata,es ESP,"MF,FW",31,21.6,3.61,4.7,2.82,0.32,0.09,0.23,0.14,0.46,0.6,0.46,0,0,0,0,0,Matches
+Jesse Lingard,eng ENG,"MF,FW",26,21,2.81,3.95,2.24,0.05,0.19,0.19,0.14,0.29,0.4,0.24,0,0.05,0,0,0,Matches
+Bruno Fernandes,pt POR,MF,24,17.9,4.19,5.05,2.91,0.84,0.11,0.11,0.22,0.89,1.08,0.5,0.17,0.06,0,0.17,0,Matches
+Sergio Romero,ar ARG,GK,32,16.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Paul Pogba,fr FRA,MF,26,15.9,3.58,4.16,3.08,0,0.25,0,0.25,0.44,0.51,0.31,0,0.06,0,0.06,0,Matches
+Ashley Young,eng ENG,DF,34,14.6,2.05,2.4,0.96,0.96,0.07,0,0.07,0.07,0.08,0.07,0,0,0,0,0,Matches
+Marcos Rojo,ar ARG,DF,29,7.5,0.67,0.96,0.53,0,0,0.13,0,0,0,0,0,0,0,0,0,Matches
+Eric Bailly,ci CIV,DF,25,7.2,0.14,0.21,0.14,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Axel Tuanzebe,eng ENG,DF,21,7.1,0.28,0.39,0.14,0,0,0,0.14,0,0,0,0,0,0,0,0,Matches
+Odion Ighalo,ng NGA,FW,30,6.8,1.91,3.01,1.47,0,0.44,0,0,0.15,0.23,0.15,0,0,0,0,0,Matches
+Diogo Dalot,pt POR,DF,20,6.4,0.78,1.38,0.78,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Phil Jones,eng ENG,DF,27,6.3,0.32,0.53,0.32,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Tahith Chong,nl NED,FW,19,5.2,1.73,2.85,1.35,0,0.38,0,0,0.58,0.95,0.38,0,0.19,0,0,0,Matches
+James Garner,eng ENG,MF,18,3.5,2,2.16,1.14,0,0.29,0,0.57,0,0,0,0,0,0,0,0,Matches
+Angel Gomes,eng ENG,"FW,MF",18,3.3,4.24,4.74,2.42,0.3,0,0.3,1.21,0.3,0.34,0.3,0,0,0,0,0,Matches
+Timothy Fosu-Mensah,nl NED,DF,21,2.6,1.15,1.23,1.15,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ethan Laird,eng ENG,DF,18,1.3,1.54,1.59,0.77,0,0.77,0,0,0,0,0,0,0,0,0,0,Matches
+Dylan Levitt,wal WAL,MF,18,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Lee Grant,eng ENG,GK,36,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Di'Shon Bernard,eng ENG,DF,18,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+D'Mani Bughail-Mellor,eng ENG,FW,18,0.3,3.33,3.46,3.33,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Largie Ramazani,be BEL,MF,18,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Teden Mengi,eng ENG,DF,17,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Ethan Galbraith,nir NIR,FW,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
